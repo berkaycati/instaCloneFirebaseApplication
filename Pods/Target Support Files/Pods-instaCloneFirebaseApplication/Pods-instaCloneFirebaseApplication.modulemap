@@ -1,0 +1,6 @@
+framework module Pods_instaCloneFirebaseApplication {
+  umbrella header "Pods-instaCloneFirebaseApplication-umbrella.h"
+
+  export *
+  module * { export * }
+}
